@@ -103,7 +103,7 @@ sections:
     background: gray
     title: Latest Posts
 seo:
-  title: Stackbit Azimuth Theme
+  title: This is your SEO optimized title
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
