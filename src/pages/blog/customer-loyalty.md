@@ -7,7 +7,7 @@ excerpt: >-
   amet commodo massa.
 date: '2021-01-03'
 thumb_image: images/3_thumb.jpg
-thumb_image_alt: A group of people working in a cafe
+thumb_image_alt: optimize your alt tag
 image: images/3.jpg
 image_alt: you can also optimize your alt tags here
 seo:
