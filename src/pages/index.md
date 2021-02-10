@@ -110,7 +110,7 @@ seo:
     there is a character limit, based on SEO best practices.
   extra:
     - name: 'og:type'
-      value: website
+      value: mywebsite.com
       keyName: property
     - name: 'og:title'
       value: Facebook title for my image
