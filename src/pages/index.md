@@ -116,7 +116,9 @@ seo:
       value: Facebook title for my image
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: >-
+        This snippet of text will appear when you share your page on social
+        media
       keyName: property
     - name: 'og:image'
       value: /images/12.jpg
