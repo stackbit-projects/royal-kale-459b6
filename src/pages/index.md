@@ -23,7 +23,7 @@ sections:
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
-        image_alt: App preview on a phone and tablet
+        image_alt: optimized alt tag
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
