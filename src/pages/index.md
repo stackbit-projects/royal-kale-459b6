@@ -127,7 +127,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Azimuth Theme
+      value: This will be the title of the page on Twitter
     - name: 'twitter:description'
       value: The preview of the Azimuth theme
     - name: 'twitter:image'
