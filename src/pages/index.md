@@ -129,7 +129,9 @@ seo:
     - name: 'twitter:title'
       value: This will be the title of the page on Twitter
     - name: 'twitter:description'
-      value: The preview of the Azimuth theme
+      value: >-
+        This is the description of the page, the way it will appear on Twitter.
+        Pay attention to the character limit here as well
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
