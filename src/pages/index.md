@@ -104,7 +104,10 @@ sections:
     title: Latest Posts
 seo:
   title: This is your SEO optimized title
-  description: The preview of the Azimuth theme
+  description: >-
+    You can edit your meta description here and you can see a preview of your
+    title and meta description in the preview window. You can also see that
+    there is a character limit, based on SEO best practices.
   extra:
     - name: 'og:type'
       value: website
