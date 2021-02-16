@@ -107,7 +107,7 @@ seo:
   description: >-
     You can edit your meta description here and you can see a preview of your
     title and meta description in the preview window. You can also see that
-    there is a character limit, based on SEO best practices.
+    there is a character limit, ba
   extra:
     - name: 'og:type'
       value: mywebsite.com
